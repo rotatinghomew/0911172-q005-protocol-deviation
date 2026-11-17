@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "id": "e1",
+      "endpoint": "primary",
+      "plan": "assigned",
+      "value": 4,
+      "deviation": false
+    },
+    {
+      "id": "e2",
+      "endpoint": "primary",
+      "plan": "assigned",
+      "value": 5,
+      "deviation": true
+    },
+    {
+      "id": "e3",
+      "endpoint": "safety",
+      "plan": "assigned",
+      "value": 1,
+      "deviation": false
+    },
+    {
+      "id": "e4",
+      "endpoint": "safety",
+      "plan": "assigned",
+      "value": null,
+      "deviation": false
+    }
+  ]
+}
